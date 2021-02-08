@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ML improving my skills.
+- 🔭 I’m currently working on ML and improving my skills.
 - 🌱 I’m currently learning Computer science with data science as specialization.
 - 👯 I’m looking to collaborate on Python 😁.
 - 🤔 I’m looking for help with deep learning and data structures.
