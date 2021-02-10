@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 <!-- badges -->
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logocolor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JavaScript&logocolor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logocolor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logocolor=white&color=2bbc8a)
 
 <!-- cards -->
