@@ -10,9 +10,9 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on Python 😁.
 - 🤔 I’m looking for help with ML and algorithms.
 - 💬 Ask me about Data and Data analysis 🙋‍♀️😊.
-- 📫 How to reach me: linkedin:https://www.linkedin.com/in/akansha-verma-profile-page
+- 📫 How to reach me: av0753484@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am a friendly person and I like donuts🍩💮
+- ⚡ Fun fact: I am a Astrophile, so you can ask me about space🚀💮
 <!-- badges -->
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logocolor=white&color=2bbc8a)
