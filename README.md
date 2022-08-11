@@ -12,6 +12,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: av0753484@gmail.com
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: I am a Astprophile and a Potterhead💮
+
 -😃  My linkedin--https://www.linkedin.com/in/akanshaverma617/
 <!-- badges -->
 
