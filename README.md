@@ -1,7 +1,4 @@
-![]
-
 https://user-images.githubusercontent.com/73830381/219848639-8540fa5e-6b9a-4398-b6ba-932c5ec19600.mp4
-
 # Hey there, I'm Akansha, an aspiring Data Scienctist. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
