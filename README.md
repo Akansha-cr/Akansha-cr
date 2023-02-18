@@ -1,4 +1,4 @@
-![]https://github.com/Akansha-cr/Akansha-cr/blob/main/OtG.mp4
+https://github.com/Akansha-cr/Akansha-cr/blob/main/OtG.mp4
 # Hey there, I'm Akansha, an aspiring Data Scienctist. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
