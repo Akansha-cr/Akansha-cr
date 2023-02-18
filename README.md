@@ -1,4 +1,4 @@
-![]https://tenor.com/view/hello-there-baby-yoda-mandolorian-hello-gif-20136589
+![hello-there-baby-yoda](https://user-images.githubusercontent.com/73830381/219848961-6167886c-3f65-49b9-bba1-ab3ecef5d272.gif)
 # Hey there, I'm Akansha, an aspiring Data Scienctist. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
