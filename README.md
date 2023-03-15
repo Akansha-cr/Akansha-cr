@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently improving my skills in the field of Data Science.
 - 🌱 I’m currently learning Computer science with data science as specialization.
-- 🤔 I’m looking for help with ML (models).
+- 🤔 I’m looking for help with DL (models) and Big Data.
 - 💬 Ask me about Data and Data analysis 🙋‍♀️😊.
 - 🤔 I'm always curious, recently its about Deep Learning.
 - 📫 How to reach me: av0753484@gmail.com
