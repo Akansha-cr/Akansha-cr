@@ -1,5 +1,5 @@
 ![hello-there-baby-yoda](https://user-images.githubusercontent.com/73830381/219848961-6167886c-3f65-49b9-bba1-ab3ecef5d272.gif)
-# Hey there, I'm Akansha, an aspiring Data Scienctist. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there, I'm Akansha, an aspiring Data Scientist. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **Akansha-cr/Akansha-cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
