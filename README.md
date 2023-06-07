@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Computer science with data science as specialization.
 - 🤔 I’m looking for help with DL (models) and Big Data.
 - 💬 Ask me about Data and Data analysis 🙋‍♀️😊.
-- 🤔 I'm always curious, recently its about Deep Learning.
+- 🤔 I'm always curious, recently its about Deep Learning, Blockchain and NFTs.
 - 📫 How to reach me: av0753484@gmail.com
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: I am a Astprophile and a Potterhead💮
